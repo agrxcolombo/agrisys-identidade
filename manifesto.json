@@ -1,0 +1,21 @@
+{
+  "pacote": "Identidade AgriSys",
+  "versao": "1.0.0",
+  "guia": "1.1",
+  "data": "2026-11-06",
+  "files": {
+    "INSTRUCOES-PARA-ASSISTENTE.md": "62c5b3c235a43143fba75c665ba7bcbe242c12cd6fe513d6181b5981e28015ad",
+    "LEIA-ME.md": "e7642b1ace87959ccc6f26fdabd66f52b4e4f2c9b6dbdfcf2feae36e0912bbe9",
+    "agrisys-identidade/SKILL.md": "a8b5b86e74628b7ee4be6cdfc7fa298cccda5f5b05336cf8a3873b3d542be0e5",
+    "agrisys-identidade/references/Guia-de-Identidade-Visual-AgriSys.md": "ba68ddf004c3ea237cdd10d21afcd2d14d1fbee770fe998a8e0864035cb82b03",
+    "agrisys-identidade/agents/openai.yaml": "338a248160445a907a4679fc5021ebd05d9992d6d268df9826ec59993a3aa6d0",
+    "agrisys-identidade/assets/logos/branca.svg": "bc9f9b9fc3370af3a0d351a25d45b5a7d847de02bae9e280f55f830cfe6f31f6",
+    "agrisys-identidade/assets/logos/formosa.svg": "843af8d180fc4371316e5ce7f9cb9a5397f7a7b0da0da03ba9beeed06736a4cb",
+    "agrisys-identidade/assets/logos/goiania.svg": "2c014d01a1e8eba821f07db20b91fdb27f339ca391140128bcbad3d0e47033fd",
+    "agrisys-identidade/assets/logos/unai.svg": "86ccd98e640ff1137296bd24bb9fa156152d79de45d64811e7f26d34fd477688",
+    "agrisys-identidade/assets/logos/cristalina.svg": "d41ff0d05e0c04c2aae98c081e6202a670257a51f2729eff4409cbb1bec2e31e",
+    "agrisys-identidade/assets/logos/simplificada.svg": "00626bf4e8bfb9b5ed440ca2df1930c0f9cb0b19e480fda752c183b70f296b2d",
+    "agrisys-identidade/assets/logos/institucional.svg": "783963b15edf6dc26b19a66d17872a715620613d86176106956dcbbfcbac1537",
+    "agrisys-identidade/assets/logos/preta.svg": "2ba75e9a78e9ea959edd7c6ce666ed2494fd7c1bebb537f759dd734473a495b2"
+  }
+}

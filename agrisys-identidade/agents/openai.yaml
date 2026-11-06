@@ -1,0 +1,4 @@
+interface:
+  display_name: "Identidade AgriSys"
+  short_description: "Padronize materiais com a identidade oficial AgriSys"
+  default_prompt: "Use $agrisys-identidade para padronizar meu documento com o guia e a logo oficial."
